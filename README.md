@@ -50,7 +50,7 @@ MERN_TO_DO/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/MERN_TO_DO.git
+   git clone https://github.com/Yogeeshkulal/To-do-List-App.git
    ```
 2. **Navigate to the project directory**
    ```bash
